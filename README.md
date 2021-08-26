@@ -1,2 +1,2 @@
-# blog
-Sukanta Pal Reading Room blog
+# sukantapal.github.io
+Personal Website
