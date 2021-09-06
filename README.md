@@ -1,2 +1,2 @@
-# blog
-subdomain
+# sukantapal.github.io
+Personal Website
