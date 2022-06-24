@@ -1,34 +1,81 @@
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: Attempt to read property "post_type" on null in /Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-query.php on line <i>4338</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>364096</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>364408</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-blog-header.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>17</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721592</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template-loader.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-blog-header.php' bgcolor='#eeeeec'>.../wp-blog-header.php<b>:</b>19</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721592</td><td bgcolor='#eeeeec'>do_action(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template-loader.php' bgcolor='#eeeeec'>.../template-loader.php<b>:</b>13</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721968</td><td bgcolor='#eeeeec'>WP_Hook->do_action(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/plugin.php' bgcolor='#eeeeec'>.../plugin.php<b>:</b>476</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721968</td><td bgcolor='#eeeeec'>WP_Hook->apply_filters(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>331</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723096</td><td bgcolor='#eeeeec'>Google\Web_Stories\Plugin->Google\Web_Stories\Infrastructure\{closure:/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/Infrastructure/ServiceBasedPlugin.php:539-541}(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>307</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723096</td><td bgcolor='#eeeeec'>Google\Web_Stories\Plugin->maybe_register_service(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/Infrastructure/ServiceBasedPlugin.php' bgcolor='#eeeeec'>.../ServiceBasedPlugin.php<b>:</b>540</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723304</td><td bgcolor='#eeeeec'>Google\Web_Stories\AMP\Output_Buffer->register(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/Infrastructure/ServiceBasedPlugin.php' bgcolor='#eeeeec'>.../ServiceBasedPlugin.php<b>:</b>575</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723304</td><td bgcolor='#eeeeec'>Google\Web_Stories\AMP\Output_Buffer->start_output_buffering(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/AMP/Output_Buffer.php' bgcolor='#eeeeec'>.../Output_Buffer.php<b>:</b>99</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723304</td><td bgcolor='#eeeeec'>Google\Web_Stories\Context->is_web_story(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/AMP/Output_Buffer.php' bgcolor='#eeeeec'>.../Output_Buffer.php<b>:</b>156</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>12</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723304</td><td bgcolor='#eeeeec'>is_singular(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/Context.php' bgcolor='#eeeeec'>.../Context.php<b>:</b>59</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>13</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723304</td><td bgcolor='#eeeeec'>WP_Query->is_singular(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/query.php' bgcolor='#eeeeec'>.../query.php<b>:</b>769</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: Attempt to read property "post_type" on null in /Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-query.php on line <i>4338</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>364096</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>364408</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-blog-header.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>17</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721592</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template-loader.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-blog-header.php' bgcolor='#eeeeec'>.../wp-blog-header.php<b>:</b>19</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721592</td><td bgcolor='#eeeeec'>do_action(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template-loader.php' bgcolor='#eeeeec'>.../template-loader.php<b>:</b>13</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721968</td><td bgcolor='#eeeeec'>WP_Hook->do_action(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/plugin.php' bgcolor='#eeeeec'>.../plugin.php<b>:</b>476</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721968</td><td bgcolor='#eeeeec'>WP_Hook->apply_filters(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>331</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723576</td><td bgcolor='#eeeeec'>_wp_admin_bar_init(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>307</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723608</td><td bgcolor='#eeeeec'>is_admin_bar_showing(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/admin-bar.php' bgcolor='#eeeeec'>.../admin-bar.php<b>:</b>26</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723640</td><td bgcolor='#eeeeec'>apply_filters(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/admin-bar.php' bgcolor='#eeeeec'>.../admin-bar.php<b>:</b>1288</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6724048</td><td bgcolor='#eeeeec'>WP_Hook->apply_filters(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/plugin.php' bgcolor='#eeeeec'>.../plugin.php<b>:</b>191</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6725552</td><td bgcolor='#eeeeec'>Google\Web_Stories\Renderer\Single->show_admin_bar(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>307</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>12</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6725552</td><td bgcolor='#eeeeec'>Google\Web_Stories\Context->is_web_story(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/Renderer/Single.php' bgcolor='#eeeeec'>.../Single.php<b>:</b>92</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>13</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6725552</td><td bgcolor='#eeeeec'>is_singular(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-content/plugins/web-stories/includes/Context.php' bgcolor='#eeeeec'>.../Context.php<b>:</b>59</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>14</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6725552</td><td bgcolor='#eeeeec'>WP_Query->is_singular(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/query.php' bgcolor='#eeeeec'>.../query.php<b>:</b>769</td></tr>
+</table></font>
+<br />
+<font size='1'><table class='xdebug-error xe-warning' dir='ltr' border='1' cellspacing='0' cellpadding='1'>
+<tr><th align='left' bgcolor='#f57900' colspan="5"><span style='background-color: #cc0000; color: #fce94f; font-size: x-large;'>( ! )</span> Warning: Cannot modify header information - headers already sent by (output started at /Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-query.php:4338) in /Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/feed-rss2-comments.php on line <i>8</i></th></tr>
+<tr><th align='left' bgcolor='#e9b96e' colspan='5'>Call Stack</th></tr>
+<tr><th align='center' bgcolor='#eeeeec'>#</th><th align='left' bgcolor='#eeeeec'>Time</th><th align='left' bgcolor='#eeeeec'>Memory</th><th align='left' bgcolor='#eeeeec'>Function</th><th align='left' bgcolor='#eeeeec'>Location</th></tr>
+<tr><td bgcolor='#eeeeec' align='center'>1</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>364096</td><td bgcolor='#eeeeec'>{main}(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>0</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>2</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>364408</td><td bgcolor='#eeeeec'>require( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-blog-header.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/index.php' bgcolor='#eeeeec'>.../index.php<b>:</b>17</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>3</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6721592</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template-loader.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-blog-header.php' bgcolor='#eeeeec'>.../wp-blog-header.php<b>:</b>19</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>4</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723608</td><td bgcolor='#eeeeec'>do_feed(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template-loader.php' bgcolor='#eeeeec'>.../template-loader.php<b>:</b>48</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>5</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6723648</td><td bgcolor='#eeeeec'>do_action(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/functions.php' bgcolor='#eeeeec'>.../functions.php<b>:</b>1624</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>6</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6724024</td><td bgcolor='#eeeeec'>WP_Hook->do_action(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/plugin.php' bgcolor='#eeeeec'>.../plugin.php<b>:</b>476</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>7</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6724024</td><td bgcolor='#eeeeec'>WP_Hook->apply_filters(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>331</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>8</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6725152</td><td bgcolor='#eeeeec'>do_feed_rss2(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/class-wp-hook.php' bgcolor='#eeeeec'>.../class-wp-hook.php<b>:</b>309</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>9</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6725264</td><td bgcolor='#eeeeec'>load_template(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/functions.php' bgcolor='#eeeeec'>.../functions.php<b>:</b>1660</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>10</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6726288</td><td bgcolor='#eeeeec'>require_once( <font color='#00bb00'>'/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/feed-rss2-comments.php</font> )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/template.php' bgcolor='#eeeeec'>.../template.php<b>:</b>770</td></tr>
+<tr><td bgcolor='#eeeeec' align='center'>11</td><td bgcolor='#eeeeec' align='center'>16790689122.0801</td><td bgcolor='#eeeeec' align='right'>6726368</td><td bgcolor='#eeeeec'><a href='http://www.php.net/function.header' target='_new'>header</a>
+(  )</td><td title='/Users/SukantaPal/Local Sites/sukanta-pal/app/public/wp-includes/feed-rss2-comments.php' bgcolor='#eeeeec'>.../feed-rss2-comments.php<b>:</b>8</td></tr>
+</table></font>
 <?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
-	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
 	xmlns:dc="http://purl.org/dc/elements/1.1/"
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
 	
 	xmlns:georss="http://www.georss.org/georss"
 	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
-
 <channel>
-	<title>Stories &#8211; Sukanta Pal</title>
+	<title>
+	Comments on: 	</title>
 	<atom:link href="https://blog.sukantapal.com/web-stories/feed/" rel="self" type="application/rss+xml" />
-	<link>https://blog.sukantapal.com/</link>
+	<link></link>
 	<description>Reading Room</description>
-	<lastBuildDate>Mon, 27 Dec 2021 07:36:28 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Fri, 24 Jun 2022 06:49:04 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
-
-<image>
-	<url>https://blog.sukantapal.com/wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
-	<title>Stories &#8211; Sukanta Pal</title>
-	<link>https://blog.sukantapal.com/</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
+	<generator>https://wordpress.org/?v=6.0</generator>
 </channel>
 </rss>
