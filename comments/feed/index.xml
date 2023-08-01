@@ -14,11 +14,11 @@
 	<atom:link href="https://blog.sukantapal.com/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://blog.sukantapal.com/</link>
 	<description>Reading Room</description>
-	<lastBuildDate>Sat, 29 Apr 2023 14:23:23 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 01 Aug 2023 06:04:41 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 </channel>
 </rss>
