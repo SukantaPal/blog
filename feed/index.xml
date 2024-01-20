@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Sukanta Pal</title>
-	<atom:link href="https://https://sukantapal.github.io/blog/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://sukantapal.github.io/blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Reading Room</description>
 	<lastBuildDate>Wed, 20 Sep 2023 03:43:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,21 +24,21 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://https://sukantapal.github.io/blog/wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
+	<url>./../wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
 	<title>Sukanta Pal</title>
-	<link>https://https://sukantapal.github.io/blog/</link>
+	<link>./../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Commercial Passenger Airlines of India 2023</title>
-		<link>https://https://sukantapal.github.io/blog/commercial-passenger-airlines-of-india-2023/</link>
-					<comments>https://https://sukantapal.github.io/blog/commercial-passenger-airlines-of-india-2023/#respond</comments>
+		<link>./../commercial-passenger-airlines-of-india-2023/index.html</link>
+					<comments>./../commercial-passenger-airlines-of-india-2023/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Tue, 04 Apr 2023 07:23:55 +0000</pubDate>
 				<category><![CDATA[Reading Room]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=422</guid>
+		<guid isPermaLink="false">./../index.html?p=422</guid>
 
 					<description><![CDATA[Before India&#8217;s, independence passenger airline started transportation by Tata Group....]]></description>
 										<content:encoded><![CDATA[
@@ -46,7 +46,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-1024x576.jpg" alt="" class="wp-image-437" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-1024x576.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-300x169.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-768x432.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-1536x864.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="576" src="./../wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-1024x576.jpg" alt="" class="wp-image-437" srcset="./../wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-1024x576.jpg 1024w, ./../wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-300x169.jpg 300w, ./../wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-768x432.jpg 768w, ./../wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2-1536x864.jpg 1536w, ./../wp-content/uploads/2023/04/Commercial-Passenger-Airlines-of-India-2023-2.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><strong>YEAR</strong></td><td class="has-text-align-center" data-align="center"><strong>IDENTITY</strong></td><td><strong>AIRLINE</strong></td><td><strong>OWNER</strong></td><td><strong>TYPE</strong></td></tr><tr><td>1946</td><td class="has-text-align-center" data-align="center"><a href="https://www.airindia.in/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img decoding="async" width="338" height="109" class="wp-image-425" style="width: 200px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Air_India_Logo.svg" alt=""></a></td><td><br>AIR INDIA&nbsp;&nbsp;&nbsp;</td><td>Tata Group (Air India Ltd.)</td><td>Both</td></tr><tr><td>2005</td><td class="has-text-align-center" data-align="center"><a href="https://www.spicejet.com/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img decoding="async" width="174" height="48" class="wp-image-428" style="width: 200px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/SpiceJet_logo.svg" alt=""></a></td><td><br>SPICEJET</td><td>SpiceJet Limited </td><td>Both</td></tr><tr><td>2005</td><td class="has-text-align-center" data-align="center"><a href="https://www.airindiaexpress.in/home" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="100" height="34" class="wp-image-432" style="width: 200px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Air_India_Express_Logo.svg" alt=""></a></td><td><br>&nbsp;AIR INDIA EXPRESS</td><td>Tata Group (Air India Ltd.) &nbsp;</td><td>Domestic</td></tr><tr><td>2005</td><td class="has-text-align-center" data-align="center"><a href="https://www.flygofirst.com/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="506" height="197" class="wp-image-424" style="width: 150px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Go_First-Logo.jpg" alt="" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Go_First-Logo.jpg 506w, https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Go_First-Logo-300x117.jpg 300w" sizes="(max-width: 506px) 100vw, 506px" /></a></td><td><br>GO FIRST</td><td>Wadia Group &nbsp; &nbsp; &nbsp;</td><td>Both</td></tr><tr><td>2006</td><td class="has-text-align-center" data-align="center"><a href="https://www.goindigo.in/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="113" height="23" class="wp-image-427" style="width: 200px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/IndiGo-Logo.svg" alt=""></a></td><td><br>INDIGO&nbsp;&nbsp;&nbsp;</td><td>InterGlobe Aviation Limited&nbsp; &nbsp; &nbsp;</td><td>Both</td></tr><tr><td>2014</td><td class="has-text-align-center" data-align="center"><a href="https://www.airindiaexpress.in/home" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="300" height="300" class="wp-image-433" style="width: 100px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/AirAsia_New_Logo.svg" alt=""></a></td><td><br>AIR ASIA INDIA</td><td>Tata Group (Air India Ltd.) &nbsp;</td><td>Domestic</td></tr><tr><td>2015</td><td class="has-text-align-center" data-align="center"><a href="https://www.airvistara.com/in/en" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img decoding="async"  class="wp-image-429" style="width: 200px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Vistara_Logo.svg" alt=""></a></td><td><br>VISTARA</td><td><br>Tata Group (Tata Sons Pvt. Ltd.)&nbsp; &nbsp;</td><td>Both</td></tr><tr><td><span style="background-color:#ffdb00" class="has-inline-background">2022</span></td><td class="has-text-align-center" data-align="center"><a href="https://www.akasaair.com/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="716" height="120" class="wp-image-426" style="width: 200px;" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Akasa_Air_logo.svg" alt=""></a></td><td><span style="background-color:#ffdb00" class="has-inline-background">AKASA AIR</span></td><td><span style="background-color:#ffdb00" class="has-inline-background">SNV Aviation Pvt. Ltd </span>&nbsp; &nbsp;&nbsp;</td><td><span style="background-color:#ffdb00" class="has-inline-background">Domestic</span></td></tr></tbody></table><figcaption class="wp-element-caption">List of commercial passenger airlines company operating now in India 2023</figcaption></figure>
+<figure class="wp-block-table is-style-regular"><table><tbody><tr><td><strong>YEAR</strong></td><td class="has-text-align-center" data-align="center"><strong>IDENTITY</strong></td><td><strong>AIRLINE</strong></td><td><strong>OWNER</strong></td><td><strong>TYPE</strong></td></tr><tr><td>1946</td><td class="has-text-align-center" data-align="center"><a href="https://www.airindia.in/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img decoding="async" width="338" height="109" class="wp-image-425" style="width: 200px;" src="./../wp-content/uploads/2023/04/Air_India_Logo.svg" alt=""></a></td><td><br>AIR INDIA&nbsp;&nbsp;&nbsp;</td><td>Tata Group (Air India Ltd.)</td><td>Both</td></tr><tr><td>2005</td><td class="has-text-align-center" data-align="center"><a href="https://www.spicejet.com/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img decoding="async" width="174" height="48" class="wp-image-428" style="width: 200px;" src="./../wp-content/uploads/2023/04/SpiceJet_logo.svg" alt=""></a></td><td><br>SPICEJET</td><td>SpiceJet Limited </td><td>Both</td></tr><tr><td>2005</td><td class="has-text-align-center" data-align="center"><a href="https://www.airindiaexpress.in/home" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="100" height="34" class="wp-image-432" style="width: 200px;" src="./../wp-content/uploads/2023/04/Air_India_Express_Logo.svg" alt=""></a></td><td><br>&nbsp;AIR INDIA EXPRESS</td><td>Tata Group (Air India Ltd.) &nbsp;</td><td>Domestic</td></tr><tr><td>2005</td><td class="has-text-align-center" data-align="center"><a href="https://www.flygofirst.com/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="506" height="197" class="wp-image-424" style="width: 150px;" src="./../wp-content/uploads/2023/04/Go_First-Logo.jpg" alt="" srcset="./../wp-content/uploads/2023/04/Go_First-Logo.jpg 506w, ./../wp-content/uploads/2023/04/Go_First-Logo-300x117.jpg 300w" sizes="(max-width: 506px) 100vw, 506px" /></a></td><td><br>GO FIRST</td><td>Wadia Group &nbsp; &nbsp; &nbsp;</td><td>Both</td></tr><tr><td>2006</td><td class="has-text-align-center" data-align="center"><a href="https://www.goindigo.in/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="113" height="23" class="wp-image-427" style="width: 200px;" src="./../wp-content/uploads/2023/04/IndiGo-Logo.svg" alt=""></a></td><td><br>INDIGO&nbsp;&nbsp;&nbsp;</td><td>InterGlobe Aviation Limited&nbsp; &nbsp; &nbsp;</td><td>Both</td></tr><tr><td>2014</td><td class="has-text-align-center" data-align="center"><a href="https://www.airindiaexpress.in/home" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="300" height="300" class="wp-image-433" style="width: 100px;" src="./../wp-content/uploads/2023/04/AirAsia_New_Logo.svg" alt=""></a></td><td><br>AIR ASIA INDIA</td><td>Tata Group (Air India Ltd.) &nbsp;</td><td>Domestic</td></tr><tr><td>2015</td><td class="has-text-align-center" data-align="center"><a href="https://www.airvistara.com/in/en" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img decoding="async"  class="wp-image-429" style="width: 200px;" src="./../wp-content/uploads/2023/04/Vistara_Logo.svg" alt=""></a></td><td><br>VISTARA</td><td><br>Tata Group (Tata Sons Pvt. Ltd.)&nbsp; &nbsp;</td><td>Both</td></tr><tr><td><span style="background-color:#ffdb00" class="has-inline-background">2022</span></td><td class="has-text-align-center" data-align="center"><a href="https://www.akasaair.com/" target="_blank" aria-label=" (opens in a new tab)" rel="noreferrer noopener" class="ek-link"><img loading="lazy" decoding="async" width="716" height="120" class="wp-image-426" style="width: 200px;" src="./../wp-content/uploads/2023/04/Akasa_Air_logo.svg" alt=""></a></td><td><span style="background-color:#ffdb00" class="has-inline-background">AKASA AIR</span></td><td><span style="background-color:#ffdb00" class="has-inline-background">SNV Aviation Pvt. Ltd </span>&nbsp; &nbsp;&nbsp;</td><td><span style="background-color:#ffdb00" class="has-inline-background">Domestic</span></td></tr></tbody></table><figcaption class="wp-element-caption">List of commercial passenger airlines company operating now in India 2023</figcaption></figure>
 
 
 
@@ -199,20 +199,20 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/commercial-passenger-airlines-of-india-2023/feed/</wfw:commentRss>
+					<wfw:commentRss>./../commercial-passenger-airlines-of-india-2023/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Explore Top 5 Attractions When you at Jaipur</title>
-		<link>https://https://sukantapal.github.io/blog/explore-top-5-attractions-when-you-at-jaipur/</link>
-					<comments>https://https://sukantapal.github.io/blog/explore-top-5-attractions-when-you-at-jaipur/#respond</comments>
+		<link>./../explore-top-5-attractions-when-you-at-jaipur/index.html</link>
+					<comments>./../explore-top-5-attractions-when-you-at-jaipur/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Fri, 31 Mar 2023 13:45:00 +0000</pubDate>
 				<category><![CDATA[Travel]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=469</guid>
+		<guid isPermaLink="false">./../index.html?p=469</guid>
 
 					<description><![CDATA[Namaste, Welcome to Jaipur(known as Pink City), the Capital of...]]></description>
 										<content:encoded><![CDATA[
@@ -220,7 +220,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33132_Sukanta-Pal_LR.webp" alt="" class="wp-image-453"/><figcaption class="wp-element-caption">Jaipur Identity Hawa Mahal Castle inside facade. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="./../wp-content/uploads/2023/04/Sukanta33132_Sukanta-Pal_LR.webp" alt="" class="wp-image-453"/><figcaption class="wp-element-caption">Jaipur Identity Hawa Mahal Castle inside facade. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -228,7 +228,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1592" height="1200" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33115_Sukanta-Pal_LR.webp" alt="" class="wp-image-450"/><figcaption class="wp-element-caption">Sukanta Pal inside of Hawa Mahal Castle.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1592" height="1200" src="./../wp-content/uploads/2023/04/Sukanta33115_Sukanta-Pal_LR.webp" alt="" class="wp-image-450"/><figcaption class="wp-element-caption">Sukanta Pal inside of Hawa Mahal Castle.</figcaption></figure>
 
 
 
@@ -248,7 +248,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33076_Sukanta-Pal_LR.webp" alt="" class="wp-image-448"/><figcaption class="wp-element-caption">The City Palace Main Entrance Gate. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="./../wp-content/uploads/2023/04/Sukanta33076_Sukanta-Pal_LR.webp" alt="" class="wp-image-448"/><figcaption class="wp-element-caption">The City Palace Main Entrance Gate. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -264,7 +264,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33161_Sukanta-Pal_LR.webp" alt="" class="wp-image-454"/><figcaption class="wp-element-caption">Jaipur City Top View. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="./../wp-content/uploads/2023/04/Sukanta33161_Sukanta-Pal_LR.webp" alt="" class="wp-image-454"/><figcaption class="wp-element-caption">Jaipur City Top View. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -288,7 +288,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33119_Sukanta-Pal_LR.webp" alt="" class="wp-image-452"/><figcaption class="wp-element-caption">Chhatri of Jaipur, India. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="1200" src="./../wp-content/uploads/2023/04/Sukanta33119_Sukanta-Pal_LR.webp" alt="" class="wp-image-452"/><figcaption class="wp-element-caption">Chhatri of Jaipur, India. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -310,7 +310,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="987" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33014_Sukanta-Pal_LR.webp" alt="" class="wp-image-446"/><figcaption class="wp-element-caption">Sukanta Pal inside Jantar Mantar.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1600" height="987" src="./../wp-content/uploads/2023/04/Sukanta33014_Sukanta-Pal_LR.webp" alt="" class="wp-image-446"/><figcaption class="wp-element-caption">Sukanta Pal inside Jantar Mantar.</figcaption></figure>
 
 
 
@@ -334,7 +334,7 @@
 
 
 
-<pre class="wp-block-verse">My First Jaipur 2014 Trip <a href="https://https://sukantapal.github.io/blog/first-research-trip-to-jaipur-2014" target="_blank" aria-label="Read here (opens in a new tab)" rel="noreferrer noopener" class="ek-link">Read here</a></pre>
+<pre class="wp-block-verse">My First Jaipur 2014 Trip <a href="./../first-research-trip-to-jaipur-2014/index.html" target="_blank" aria-label="Read here (opens in a new tab)" rel="noreferrer noopener" class="ek-link">Read here</a></pre>
 
 
 
@@ -349,20 +349,20 @@
 <div style="height:53px" aria-hidden="true" class="wp-block-spacer"></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/explore-top-5-attractions-when-you-at-jaipur/feed/</wfw:commentRss>
+					<wfw:commentRss>./../explore-top-5-attractions-when-you-at-jaipur/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Bonedi Barir Kojagori Laxmi Puja Kolkata</title>
-		<link>https://https://sukantapal.github.io/blog/bonedi-barir-kojagori-laxmi-puja-kolkata/</link>
-					<comments>https://https://sukantapal.github.io/blog/bonedi-barir-kojagori-laxmi-puja-kolkata/#respond</comments>
+		<link>./../bonedi-barir-kojagori-laxmi-puja-kolkata/index.html</link>
+					<comments>./../bonedi-barir-kojagori-laxmi-puja-kolkata/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Mon, 10 Oct 2022 09:03:00 +0000</pubDate>
 				<category><![CDATA[Festival]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=211</guid>
+		<guid isPermaLink="false">./../index.html?p=211</guid>
 
 					<description><![CDATA[One of the most popular festivals in West Bengal/Kolkata is...]]></description>
 										<content:encoded><![CDATA[
@@ -380,7 +380,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-1024x768.jpg" alt="Bonedi Barir Laxmi Puja" class="wp-image-374" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-1536x1152.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-150x113.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Bonedi Barir Laxmi Puja. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-1024x768.jpg" alt="Bonedi Barir Laxmi Puja" class="wp-image-374" srcset="./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-1024x768.jpg 1024w, ./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-300x225.jpg 300w, ./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-768x576.jpg 768w, ./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-1536x1152.jpg 1536w, ./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja-150x113.jpg 150w, ./../wp-content/uploads/2022/10/Bonedi-Barir-Laxmi-Puja.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Bonedi Barir Laxmi Puja. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -388,7 +388,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-1024x768.jpg" alt="Lakshmi Pujor Narkel Naru" class="wp-image-377" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-1536x1152.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-150x113.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Lakshmi Pujor Narkel Naru. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-1024x768.jpg" alt="Lakshmi Pujor Narkel Naru" class="wp-image-377" srcset="./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-1024x768.jpg 1024w, ./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-300x225.jpg 300w, ./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-768x576.jpg 768w, ./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-1536x1152.jpg 1536w, ./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru-150x113.jpg 150w, ./../wp-content/uploads/2022/10/Lakshmi-Pujor-Narkel-naru.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Lakshmi Pujor Narkel Naru. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -452,7 +452,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona-768x1024.jpg" alt="Laxmi Puja Alpona" class="wp-image-378" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona-768x1024.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona-225x300.jpg 225w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona-1152x1536.jpg 1152w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona-640x853.jpg 640w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona-150x200.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Laxmi-Puja-Alpona.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Laxmi Pujor Alpona. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona-768x1024.jpg" alt="Laxmi Puja Alpona" class="wp-image-378" srcset="./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona-768x1024.jpg 768w, ./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona-225x300.jpg 225w, ./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona-1152x1536.jpg 1152w, ./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona-640x853.jpg 640w, ./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona-150x200.jpg 150w, ./../wp-content/uploads/2022/10/Laxmi-Puja-Alpona.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Laxmi Pujor Alpona. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -468,7 +468,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-1024x576.jpg" alt="Kojagori Laxmi Puja" class="wp-image-375" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-1024x576.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-300x169.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-768x432.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-1536x864.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-150x84.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kojagori-Laxmi-Puja.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Kojagori Laxmi Puja. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="576" src="./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-1024x576.jpg" alt="Kojagori Laxmi Puja" class="wp-image-375" srcset="./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-1024x576.jpg 1024w, ./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-300x169.jpg 300w, ./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-768x432.jpg 768w, ./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-1536x864.jpg 1536w, ./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja-150x84.jpg 150w, ./../wp-content/uploads/2022/10/Kojagori-Laxmi-Puja.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Kojagori Laxmi Puja. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -476,7 +476,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-768x1024.jpg" alt="Kumartuli artisans making Laxmi Pot or Laxmi Sora after Durga Puja in Kolkata" class="wp-image-212" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-768x1024.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-225x300.jpg 225w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-1152x1536.jpg 1152w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata.jpg 1524w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Kumartuli artisans making Laxmi Pot or Laxmi Sora after Durga Puja in Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="768" height="1024" src="./../wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-768x1024.jpg" alt="Kumartuli artisans making Laxmi Pot or Laxmi Sora after Durga Puja in Kolkata" class="wp-image-212" srcset="./../wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-768x1024.jpg 768w, ./../wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-225x300.jpg 225w, ./../wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata-1152x1536.jpg 1152w, ./../wp-content/uploads/2021/10/Kumartuli-artisans-making-Laxmi-Pot-or-Laxmi-Sora-after-Durga-Puja-in-Kolkata.jpg 1524w" sizes="(max-width: 768px) 100vw, 768px" /><figcaption class="wp-element-caption">Kumartuli artisans making Laxmi Pot or Laxmi Sora after Durga Puja in Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -498,7 +498,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-1024x768.jpg" alt="Kolkata's Laxmi Puja Pandal" class="wp-image-376" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-1536x1152.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-150x113.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Kolkata&#8217;s Laxmi Puja Pandal. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-1024x768.jpg" alt="Kolkata's Laxmi Puja Pandal" class="wp-image-376" srcset="./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-1024x768.jpg 1024w, ./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-300x225.jpg 300w, ./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-768x576.jpg 768w, ./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-1536x1152.jpg 1536w, ./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja-150x113.jpg 150w, ./../wp-content/uploads/2022/10/Kolkatas-Pandal-Laxmi-Puja.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption class="wp-element-caption">Kolkata&#8217;s Laxmi Puja Pandal. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -509,20 +509,20 @@
 <p class="has-text-align-justify">Lakṣmī puja is the most neglected and taken for granted puja in the Hindu Almanac. Since she has just visited us accompanying her mother in the Sharadotsav and coming back on the fifth day after returning to Kailash, her position is somewhat eroded like the married daughter coming home too early. Though she is worshipped daily in Bengali Hindu homes and commercial establishments as the goddess of wealth, she is given a step motherly treatment in the Sarbojinin puja. Her puja in the pandals are a leftover of funds from the worship of her mother Durga and she is not given the pride of place to either create a new pandal or given the due which she deserves. Much of this neglect is subterfuged under the guise of muted decor and puja as Lakṣmī is believed to be in favour of ‘calm and quiet’. But that is just a lame excuse and she knows it too. She bears us no grudge In the traditional Bengali home she is worshiped on the day of Diwali when her alter image, the OLakṣmī is driven out and Lakṣmī is ushered in. It was left to the migrants of East Bengal to celebrate Lakṣmī puja on Kojagiri Purnima and hoist her in the exalted position. First, to worship her in the Lakṣmī &#8216;sara&#8217; and then moving to the idol. Having lost everything in the partition of 1947 and making the other part of Bengal their home, they continued their reverence, praying to give them prosperity. She did not disappoint them and showered them with her blessings. Seeing this their Western brethren followed suit. Lakṣmī is the Hindu Goddess of wealth, prosperity, both material and spiritual, fortune, and the embodiment of beauty. She is also worshipped as the consort of Vishnu. She is also known as Mahalakshmi, is said to bring good luck and is believed to protect her devotees from all kinds of misery and money-related sorrows. In Bengal, Lakṣmī is worshiped in autumn when the moon is full, the brightest night of the year. It is believed that she showers wealth on this night. She, along with her bahana, the great white owl, descends to earth and takes away the darkness of poverty, stagnation, anger, and laziness from our lives. Her bahana owl represents royalties, penetrating sight and intelligence. It serves as her mount over which she rides. Lakṣmī is also referred to as pranadayini,&#8221;giver of vital life-sustaining energy&#8221; who can turn a dull thing full of life. One of the most compelling stories in Hindu mythology is that of the Churning of the Milky Ocean. It is the story of the gods versus the demons and their fight to gain immortality. It also tells of the rebirth of Lakṣmī . Devas, gods, and asuras, demons, were both mortal at one time, in Hinduism. Amrit, the divine nectar that grants immortality, could only be obtained by churning the Kshirsagar,the Ocean of Milk. The devas and asuras both sought immortality and decided to churn the Kshirsagar. The samudra manthan commenced with the devas on one side and the asuras on the other. Vishnu incarnated as Kurma, the tortoise, and a mountain was placed on the tortoise as a churning pole. Vasuki, the great venom-spewing serpent, was wrapped around the mountain and used to churn the ocean. A host of divine celestial objects came up during the churning. Along with them emerged the goddess Lakṣmī, the daughter of Bhrigu and Khyaati. The last to come up was the Amrita. The avatar of Kurma, the tortoise, ended with this. Vishnu then took up the form of a beautiful maiden to distract the asuras and gave immortality to the devas. She is &#8216;shakti-roopa&#8217; of &#8216;parabrahma&#8217; or &#8216;adi dev narayan&#8217; in the &#8216;Mahalakṣmī&#8217; story. OLakṣmī the goddess of misfortune, is Lakṣmī&#8217;s elder sister, her alter image. Lakṣmī is called Shree or Thirumagal because she is endowed with six auspicious and divine qualities, or Gunas, and also because she is the source of strength even to Vishnu. She is commonly portrayed as a beautiful woman, standing on a lotus flower. There is her ‘bahana’ the white owl which accompanies her.&nbsp;</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/bonedi-barir-kojagori-laxmi-puja-kolkata/feed/</wfw:commentRss>
+					<wfw:commentRss>./../bonedi-barir-kojagori-laxmi-puja-kolkata/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Men’s Essential Type of Bags</title>
-		<link>https://https://sukantapal.github.io/blog/mens-essential-type-of-bags/</link>
-					<comments>https://https://sukantapal.github.io/blog/mens-essential-type-of-bags/#respond</comments>
+		<link>./../mens-essential-type-of-bags/index.html</link>
+					<comments>./../mens-essential-type-of-bags/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Sat, 09 Jul 2022 08:44:06 +0000</pubDate>
 				<category><![CDATA[Fashion]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=296</guid>
+		<guid isPermaLink="false">./../index.html?p=296</guid>
 
 					<description><![CDATA[Most essential types of bags for men in the Year...]]></description>
 										<content:encoded><![CDATA[
@@ -579,20 +579,20 @@
 <p class="has-text-align-justify">The final bag or piece of luggage you need is a Toiletry Kit or&nbsp; Dopp kit for all your toiletries and grooming essentials. These are great for trips or for any sort of travel. They keep your stuff organized, are sophisticated-looking and are just a joy to use.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/mens-essential-type-of-bags/feed/</wfw:commentRss>
+					<wfw:commentRss>./../mens-essential-type-of-bags/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Rath Yatra Festival</title>
-		<link>https://https://sukantapal.github.io/blog/rath-yatra-festival/</link>
-					<comments>https://https://sukantapal.github.io/blog/rath-yatra-festival/#respond</comments>
+		<link>./../rath-yatra-festival/index.html</link>
+					<comments>./../rath-yatra-festival/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Sat, 02 Jul 2022 08:30:00 +0000</pubDate>
 				<category><![CDATA[Festival]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=323</guid>
+		<guid isPermaLink="false">./../index.html?p=323</guid>
 
 					<description><![CDATA[Before explaining what is Rath Yatra Festival(ରଥଯାତ୍ରା) or Festival of...]]></description>
 										<content:encoded><![CDATA[
@@ -600,7 +600,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-1024x768.jpg" alt="Rath Yatra Festival in Kolkata" class="wp-image-322" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-1536x1152.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-150x113.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Rath Yatra Festival in Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-1024x768.jpg" alt="Rath Yatra Festival in Kolkata" class="wp-image-322" srcset="./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-1024x768.jpg 1024w, ./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-300x225.jpg 300w, ./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-768x576.jpg 768w, ./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-1536x1152.jpg 1536w, ./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata-150x113.jpg 150w, ./../wp-content/uploads/2022/07/Rath-Yatra-Festival-in-Kolkata.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Rath Yatra Festival in Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -665,20 +665,20 @@
 <p class="has-text-align-justify"><strong>History of Jagannath, Hinduism </strong>&#8211; The appearance of a god as a human (Incarnation) like Jesus Christ, was an influencer and Founder of Christianity likewise Krishna for Hinduism (Unlike other religions, <a href="https://en.wikipedia.org/wiki/History_of_Hinduism">Hinduism</a> has no one founder but is instead a fusion of various beliefs). After the death of that human/Story, we were influenced and worshipped in different forms like idols, Photos and all, because of their legacy and great contribution.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/rath-yatra-festival/feed/</wfw:commentRss>
+					<wfw:commentRss>./../rath-yatra-festival/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Heritage Metro Railway of Kolkata</title>
-		<link>https://https://sukantapal.github.io/blog/heritage-metro-railway-of-kolkata/</link>
-					<comments>https://https://sukantapal.github.io/blog/heritage-metro-railway-of-kolkata/#respond</comments>
+		<link>./../heritage-metro-railway-of-kolkata/index.html</link>
+					<comments>./../heritage-metro-railway-of-kolkata/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Sun, 24 Oct 2021 07:03:00 +0000</pubDate>
 				<category><![CDATA[Heritage]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=227</guid>
+		<guid isPermaLink="false">./../index.html?p=227</guid>
 
 					<description><![CDATA[Kolkata Metro or Heritage Metro of Kolkata is one of...]]></description>
 										<content:encoded><![CDATA[
@@ -686,7 +686,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="769" height="1024" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-769x1024.jpg" alt="File Picture of Kolkata's Metro" class="wp-image-333" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-769x1024.jpg 769w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-225x300.jpg 225w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-768x1023.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-1153x1536.jpg 1153w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-640x853.jpg 640w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-150x200.jpg 150w, https://https://sukantapal.github.io/blog/wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform.jpg 1537w" sizes="(max-width: 769px) 100vw, 769px" /><figcaption class="wp-element-caption">East-West Kolkata Metro Platform. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="769" height="1024" src="./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-769x1024.jpg" alt="File Picture of Kolkata's Metro" class="wp-image-333" srcset="./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-769x1024.jpg 769w, ./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-225x300.jpg 225w, ./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-768x1023.jpg 768w, ./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-1153x1536.jpg 1153w, ./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-640x853.jpg 640w, ./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform-150x200.jpg 150w, ./../wp-content/uploads/2022/07/East-West-Kolkata-Metro-Platform.jpg 1537w" sizes="(max-width: 769px) 100vw, 769px" /><figcaption class="wp-element-caption">East-West Kolkata Metro Platform. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -737,20 +737,20 @@
 <p class="has-text-align-justify">As we expand our services to New Town in the East, Howrah Maidan in the west, Airport in the north and Joka in the extreme south, we pledge to provide cool and comfortable services to a station near you! Future is as glorious as the past! Commute anywhere in a matter of minutes with our modern facilities! In Future, we&#8217;re bringing India&#8217;s first underwater metro near Howrah Bridge, the largest underground metro station at the Airport and the deepest underground metro station at Howrah. Joining Sealdah with Howrah, Kalighat with Dakshineswar, Eco Park with Victoria and Barasat with Joka, your futuristic metro will revolutionize Kolkata&#8217;s Transport System!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/heritage-metro-railway-of-kolkata/feed/</wfw:commentRss>
+					<wfw:commentRss>./../heritage-metro-railway-of-kolkata/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Karva Chauth Celebrations in West Bengal</title>
-		<link>https://https://sukantapal.github.io/blog/karva-chauth-celebrations-in-west-bengal/</link>
-					<comments>https://https://sukantapal.github.io/blog/karva-chauth-celebrations-in-west-bengal/#respond</comments>
+		<link>./../karva-chauth-celebrations-in-west-bengal/index.html</link>
+					<comments>./../karva-chauth-celebrations-in-west-bengal/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Sun, 24 Oct 2021 06:14:00 +0000</pubDate>
 				<category><![CDATA[Festival]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=220</guid>
+		<guid isPermaLink="false">./../index.html?p=220</guid>
 
 					<description><![CDATA[Karwa Chauth (करवा चौथ) is one of the major festivals,...]]></description>
 										<content:encoded><![CDATA[
@@ -758,7 +758,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-1024x682.jpg" alt="Karva Chauth Celebrations in West Bengal" class="wp-image-223" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-1024x682.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-300x200.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-768x512.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-1536x1024.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal.jpg 1856w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Karva Chauth Celebrations in West Bengal. Photograph: Debmalya Das | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="682" src="./../wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-1024x682.jpg" alt="Karva Chauth Celebrations in West Bengal" class="wp-image-223" srcset="./../wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-1024x682.jpg 1024w, ./../wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-300x200.jpg 300w, ./../wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-768x512.jpg 768w, ./../wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal-1536x1024.jpg 1536w, ./../wp-content/uploads/2021/10/Karva-Chauth-Celebrations-in-West-Bengal.jpg 1856w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Karva Chauth Celebrations in West Bengal. Photograph: Debmalya Das | sukantapal.com</figcaption></figure>
 
 
 
@@ -799,20 +799,20 @@
 <p class="has-text-align-justify">&#8220;Aayi raat suhagon wali O chaand ko dekhoon haath main jodoon Karwa chauth ka vrat main todoon&#8230;&#8221; Yeh Sas-Bahu Ki Jodi hain anmol, Bahar Kaam se Gaye huye Pati aur Sasur aj Karwa Chauth pe ghar nahi ay paye, par unke lambi umar ke liye Vrat rakhte huye aj Chand ko dekhte Muskurate huye apne apne vrat today in sas-bahu ne.. Happy Karwa Chauth</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/karva-chauth-celebrations-in-west-bengal/feed/</wfw:commentRss>
+					<wfw:commentRss>./../karva-chauth-celebrations-in-west-bengal/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Making of Diwali Firecrackers</title>
-		<link>https://https://sukantapal.github.io/blog/making-of-diwali-firecrackers/</link>
-					<comments>https://https://sukantapal.github.io/blog/making-of-diwali-firecrackers/#respond</comments>
+		<link>./../making-of-diwali-firecrackers/index.html</link>
+					<comments>./../making-of-diwali-firecrackers/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Sat, 23 Oct 2021 08:29:00 +0000</pubDate>
 				<category><![CDATA[Festival]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=215</guid>
+		<guid isPermaLink="false">./../index.html?p=215</guid>
 
 					<description><![CDATA[This time of the year when we officially celebrate with...]]></description>
 										<content:encoded><![CDATA[
@@ -820,7 +820,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="623" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-1024x623.jpg" alt="A man making fire crackers ahead of Diwali" class="wp-image-216" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-1024x623.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-300x183.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-768x467.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-1536x935.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A man making fire crackers ahead of Diwali. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="623" src="./../wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-1024x623.jpg" alt="A man making fire crackers ahead of Diwali" class="wp-image-216" srcset="./../wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-1024x623.jpg 1024w, ./../wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-300x183.jpg 300w, ./../wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-768x467.jpg 768w, ./../wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali-1536x935.jpg 1536w, ./../wp-content/uploads/2021/10/A-man-making-fire-crackers-ahead-of-Diwali.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>A man making fire crackers ahead of Diwali. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -849,20 +849,20 @@
 <p class="has-text-align-justify">Kolkata Fireworks store or shop previously held at Sahid Minar Ground like fair for selling crackers on The occasion of Diwali and Kali Puja, now happened on Sithir More Circus Ground.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/making-of-diwali-firecrackers/feed/</wfw:commentRss>
+					<wfw:commentRss>./../making-of-diwali-firecrackers/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Experimenter Gallery Kolkata</title>
-		<link>https://https://sukantapal.github.io/blog/experimenter-gallery-kolkata/</link>
-					<comments>https://https://sukantapal.github.io/blog/experimenter-gallery-kolkata/#respond</comments>
+		<link>./../experimenter-gallery-kolkata/index.html</link>
+					<comments>./../experimenter-gallery-kolkata/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Mon, 13 Sep 2021 09:30:00 +0000</pubDate>
 				<category><![CDATA[Reading Room]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=195</guid>
+		<guid isPermaLink="false">./../index.html?p=195</guid>
 
 					<description><![CDATA[Kolkata’s (Calcutta) is one of the finest and heritage Gallery...]]></description>
 										<content:encoded><![CDATA[
@@ -880,7 +880,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-1024x683.jpg" alt="Sukanta Pal at Experimenter Gallery - Hindustan Road" class="wp-image-197" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-1024x683.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-300x200.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-768x512.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-1536x1024.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sukanta Pal at Experimenter Gallery &#8211; Hindustan Road. Photograph: Experimenter Gallery | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-1024x683.jpg" alt="Sukanta Pal at Experimenter Gallery - Hindustan Road" class="wp-image-197" srcset="./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-1024x683.jpg 1024w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-300x200.jpg 300w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-768x512.jpg 768w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA-1536x1024.jpg 1536w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-HINDUSTAN-ROAD-KOLKATA.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sukanta Pal at Experimenter Gallery &#8211; Hindustan Road. Photograph: Experimenter Gallery | sukantapal.com</figcaption></figure>
 
 
 
@@ -888,7 +888,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-1024x683.jpg" alt="Sukanta Pal at Experimenter Gallery - Ballygunge Place" class="wp-image-196" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-1024x683.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-300x200.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-768x512.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-1536x1024.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sukanta Pal at Experimenter Gallery &#8211; Ballygunge Place. Photograph: Experimenter Gallery | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="683" src="./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-1024x683.jpg" alt="Sukanta Pal at Experimenter Gallery - Ballygunge Place" class="wp-image-196" srcset="./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-1024x683.jpg 1024w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-300x200.jpg 300w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-768x512.jpg 768w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA-1536x1024.jpg 1536w, ./../wp-content/uploads/2021/09/EXPERIMENTER-GALLERY-BALLYGUNGE-PLACE-KOLKATA.jpg 1680w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sukanta Pal at Experimenter Gallery &#8211; Ballygunge Place. Photograph: Experimenter Gallery | sukantapal.com</figcaption></figure>
 
 
 
@@ -905,20 +905,20 @@
 <p class="has-text-align-justify"><a href="https://www.instagram.com/experimenterkol/">Experimenter</a> started with a love story. When Prateek Raja told childhood sweetheart Priyanka about his long-held ambition to open a cutting-edge art gallery, she did not hesitate for a second. The then-media manager quit her job, and packed her bags; the couple spent a year meeting artists and plotting their future venture. Experimenter opened in 2009. It has since then established itself as one of India’s leading galleries, boasting two spaces in the country’s cultural capital, Kolkata, and championing the likes of Prabhakar Pachpute, artist collective CAMP, and Naeem Mohaiemen.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/experimenter-gallery-kolkata/feed/</wfw:commentRss>
+					<wfw:commentRss>./../experimenter-gallery-kolkata/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Ganesh Chaturthi Festival in Kolkata</title>
-		<link>https://https://sukantapal.github.io/blog/ganesh-chaturthi-festival-in-kolkata/</link>
-					<comments>https://https://sukantapal.github.io/blog/ganesh-chaturthi-festival-in-kolkata/#respond</comments>
+		<link>./../ganesh-chaturthi-festival-in-kolkata/index.html</link>
+					<comments>./../ganesh-chaturthi-festival-in-kolkata/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Fri, 10 Sep 2021 20:30:00 +0000</pubDate>
 				<category><![CDATA[Festival]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=181</guid>
+		<guid isPermaLink="false">./../index.html?p=181</guid>
 
 					<description><![CDATA[How Kolkata dominant Durga Puja likewise Ganesh Puja Lead by...]]></description>
 										<content:encoded><![CDATA[
@@ -926,7 +926,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-1024x768.jpg" alt="Ganesh Chaturthi festival preparation in Kolkata. Photograph" class="wp-image-183" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-1536x1152.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ganesh Chaturthi festival preparation in Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="./../wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-1024x768.jpg" alt="Ganesh Chaturthi festival preparation in Kolkata. Photograph" class="wp-image-183" srcset="./../wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-1024x768.jpg 1024w, ./../wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-300x225.jpg 300w, ./../wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-768x576.jpg 768w, ./../wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata-1536x1152.jpg 1536w, ./../wp-content/uploads/2021/09/Ganesh-Chaturthi-festival-preparation-in-Kolkata.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Ganesh Chaturthi festival preparation in Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -934,7 +934,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-1024x768.jpg" alt="Preparation Of Ganesh Chaturthi Festival In Kolkata" class="wp-image-184" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-1536x1152.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Preparation Of Ganesh Chaturthi Festival In Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" src="./../wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-1024x768.jpg" alt="Preparation Of Ganesh Chaturthi Festival In Kolkata" class="wp-image-184" srcset="./../wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-1024x768.jpg 1024w, ./../wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-300x225.jpg 300w, ./../wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-768x576.jpg 768w, ./../wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata-1536x1152.jpg 1536w, ./../wp-content/uploads/2021/09/Preparation-Of-Ganesh-Chaturthi-Festival-In-Kolkata.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Preparation Of Ganesh Chaturthi Festival In Kolkata. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -942,14 +942,14 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="694" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-1024x694.jpg" alt="An idol maker power nap after lunch in Kumartuli, India" class="wp-image-182" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-1024x694.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-300x203.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-768x521.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-1536x1042.jpg 1536w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An idol maker power nap after lunch in Kumartuli, India. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="694" src="./../wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-1024x694.jpg" alt="An idol maker power nap after lunch in Kumartuli, India" class="wp-image-182" srcset="./../wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-1024x694.jpg 1024w, ./../wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-300x203.jpg 300w, ./../wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-768x521.jpg 768w, ./../wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India-1536x1042.jpg 1536w, ./../wp-content/uploads/2021/09/An-idol-maker-power-nap-after-lunch-in-Kumartuli-India.jpg 1920w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>An idol maker power nap after lunch in Kumartuli, India. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
 <p class="has-text-align-justify">On the last day of the festival, the tradition of Ganesh Visarjan takes place. The concluding day of the 10-day festival is also popularly known as Anant Chaturdashi. As the word &#8216;visarjan&#8217; implies, on this day immersion (&#8216;visarjan&#8217; means immersion) of Lord Ganapati&#8217;s idol takes place in a river, sea or water body. On the first day of the festival, the devotees mark the beginning of Ganesh Chaturthi with the placement of Lord Ganesha&#8217;s idol in their homes, public places and offices. On the last day, the devotees come out in processions carrying the idols of their beloved God and perform immersion.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/ganesh-chaturthi-festival-in-kolkata/feed/</wfw:commentRss>
+					<wfw:commentRss>./../ganesh-chaturthi-festival-in-kolkata/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

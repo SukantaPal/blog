@@ -11,8 +11,8 @@
 <channel>
 	<title>
 	Comments on: Rath Yatra Festival	</title>
-	<atom:link href="https://https://sukantapal.github.io/blog/rath-yatra-festival/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://sukantapal.github.io/blog/rath-yatra-festival/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
 	<description>Reading Room</description>
 	<lastBuildDate>Tue, 11 Oct 2022 05:16:15 +0000</lastBuildDate>
 	<sy:updatePeriod>

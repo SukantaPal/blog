@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Tech &#8211; Sukanta Pal</title>
-	<atom:link href="https://https://sukantapal.github.io/blog/category/tech/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://sukantapal.github.io/blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Reading Room</description>
 	<lastBuildDate>Sat, 29 Apr 2023 12:39:38 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,21 +24,21 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://https://sukantapal.github.io/blog/wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
 	<title>Tech &#8211; Sukanta Pal</title>
-	<link>https://https://sukantapal.github.io/blog/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Microsoft TechVista 2014 at Jaipur INDIA</title>
-		<link>https://https://sukantapal.github.io/blog/microsoft-techvista-2014-at-jaipur-india/</link>
-					<comments>https://https://sukantapal.github.io/blog/microsoft-techvista-2014-at-jaipur-india/#respond</comments>
+		<link>./../../../microsoft-techvista-2014-at-jaipur-india/index.html</link>
+					<comments>./../../../microsoft-techvista-2014-at-jaipur-india/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Fri, 24 Jan 2014 22:21:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=463</guid>
+		<guid isPermaLink="false">./../../../index.html?p=463</guid>
 
 					<description><![CDATA[Microsoft Research India has selected the pink city Jaipur, the...]]></description>
 										<content:encoded><![CDATA[
@@ -46,7 +46,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="2048" height="1360" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Microsoft-TechVista-2014-Jaipur-Group-Photo.webp" alt="" class="wp-image-460"/><figcaption class="wp-element-caption">Microsoft TechVista 2014 Jaipur Group Photo.</figcaption></figure>
+<figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="2048" height="1360" src="./../../../wp-content/uploads/2023/04/Microsoft-TechVista-2014-Jaipur-Group-Photo.webp" alt="" class="wp-image-460"/><figcaption class="wp-element-caption">Microsoft TechVista 2014 Jaipur Group Photo.</figcaption></figure>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="1200" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Sukanta33298_Sukanta-Pal_LR.webp" alt="" class="wp-image-461"/><figcaption class="wp-element-caption">Microsoft TechVista Event Badge &#038; Wrist Band. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1600" height="1200" src="./../../../wp-content/uploads/2023/04/Sukanta33298_Sukanta-Pal_LR.webp" alt="" class="wp-image-461"/><figcaption class="wp-element-caption">Microsoft TechVista Event Badge &#038; Wrist Band. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="2048" height="1360" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Computer-Scientist-P.-Anandan-Padmanabhan-Anandan.webp" alt="" class="wp-image-462"/><figcaption class="wp-element-caption">Computer Scientist P. Anandan (Padmanabhan Anandan).</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="2048" height="1360" src="./../../../wp-content/uploads/2023/04/Computer-Scientist-P.-Anandan-Padmanabhan-Anandan.webp" alt="" class="wp-image-462"/><figcaption class="wp-element-caption">Computer Scientist P. Anandan (Padmanabhan Anandan).</figcaption></figure>
 
 
 
@@ -88,7 +88,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="960" height="540" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/Audience.webp" alt="" class="wp-image-459"/><figcaption class="wp-element-caption">Packed Audience of Microsoft TechVista 2014 Event.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="960" height="540" src="./../../../wp-content/uploads/2023/04/Audience.webp" alt="" class="wp-image-459"/><figcaption class="wp-element-caption">Packed Audience of Microsoft TechVista 2014 Event.</figcaption></figure>
 
 
 
@@ -108,7 +108,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2592" height="1802" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2023/04/240120141020_Sukanta_Sukanta-Pal_LR.webp" alt="" class="wp-image-458"/><figcaption class="wp-element-caption">Sukanta Pal at Microsoft TechVista 2014 Jaipur Event.</figcaption></figure>
+<figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2592" height="1802" src="./../../../wp-content/uploads/2023/04/240120141020_Sukanta_Sukanta-Pal_LR.webp" alt="" class="wp-image-458"/><figcaption class="wp-element-caption">Sukanta Pal at Microsoft TechVista 2014 Jaipur Event.</figcaption></figure>
 
 
 
@@ -129,7 +129,7 @@
 </ol>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/microsoft-techvista-2014-at-jaipur-india/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../microsoft-techvista-2014-at-jaipur-india/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

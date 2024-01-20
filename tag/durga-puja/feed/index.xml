@@ -12,8 +12,8 @@
 
 <channel>
 	<title>Durga Puja &#8211; Sukanta Pal</title>
-	<atom:link href="https://https://sukantapal.github.io/blog/tag/durga-puja/feed/" rel="self" type="application/rss+xml" />
-	<link>https://https://sukantapal.github.io/blog/</link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
 	<description>Reading Room</description>
 	<lastBuildDate>Mon, 27 Dec 2021 07:33:20 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -24,22 +24,22 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>https://https://sukantapal.github.io/blog/wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
+	<url>./../../../wp-content/uploads/2021/08/cropped-Master-blog-sukantapal-Site-icon_ONLY-1-32x32.png</url>
 	<title>Durga Puja &#8211; Sukanta Pal</title>
-	<link>https://https://sukantapal.github.io/blog/</link>
+	<link>./../../../index.html</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Saroter Kashful &#8211; Land of Kash Grass</title>
-		<link>https://https://sukantapal.github.io/blog/saroter-kashful-land-of-kash-grass/</link>
-					<comments>https://https://sukantapal.github.io/blog/saroter-kashful-land-of-kash-grass/#respond</comments>
+		<link>./../../../saroter-kashful-land-of-kash-grass/index.html</link>
+					<comments>./../../../saroter-kashful-land-of-kash-grass/index.html#respond</comments>
 		
 		<dc:creator><![CDATA[Sukanta Pal]]></dc:creator>
 		<pubDate>Wed, 01 Sep 2021 06:29:00 +0000</pubDate>
 				<category><![CDATA[Festival]]></category>
 		<category><![CDATA[Durga Puja]]></category>
-		<guid isPermaLink="false">https://https://sukantapal.github.io/blog/?p=172</guid>
+		<guid isPermaLink="false">./../../../index.html?p=172</guid>
 
 					<description><![CDATA[In my childhood, I didn&#8217;t know about kashful stories or...]]></description>
 										<content:encoded><![CDATA[
@@ -47,7 +47,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_7928-1024x768.jpg" alt="Kids Collecting Kashful for Durga Puja" class="wp-image-175" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_7928-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_7928-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_7928-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_7928.jpg 1264w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Kids Collecting Kashful for Durga Puja. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="768" src="./../../../wp-content/uploads/2021/09/IMG_7928-1024x768.jpg" alt="Kids Collecting Kashful for Durga Puja" class="wp-image-175" srcset="./../../../wp-content/uploads/2021/09/IMG_7928-1024x768.jpg 1024w, ./../../../wp-content/uploads/2021/09/IMG_7928-300x225.jpg 300w, ./../../../wp-content/uploads/2021/09/IMG_7928-768x576.jpg 768w, ./../../../wp-content/uploads/2021/09/IMG_7928.jpg 1264w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Kids Collecting Kashful for Durga Puja. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_8377-1024x768.jpg" alt="Kids Playing with Kashful in Village" class="wp-image-176" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_8377-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_8377-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_8377-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_8377.jpg 1264w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Kids Playing with Kashful in Village. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="./../../../wp-content/uploads/2021/09/IMG_8377-1024x768.jpg" alt="Kids Playing with Kashful in Village" class="wp-image-176" srcset="./../../../wp-content/uploads/2021/09/IMG_8377-1024x768.jpg 1024w, ./../../../wp-content/uploads/2021/09/IMG_8377-300x225.jpg 300w, ./../../../wp-content/uploads/2021/09/IMG_8377-768x576.jpg 768w, ./../../../wp-content/uploads/2021/09/IMG_8377.jpg 1264w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Kids Playing with Kashful in Village. Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_6260-1024x768.jpg" alt="Talking Groupie" class="wp-image-174" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_6260-1024x768.jpg 1024w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_6260-300x225.jpg 300w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_6260-768x576.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/IMG_6260.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sukanta Pal, Suchetana, Archita, Sanhedeep, Puspal and Anwesha at Palla road Burdwan(From Left to Right).Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="768" src="./../../../wp-content/uploads/2021/09/IMG_6260-1024x768.jpg" alt="Talking Groupie" class="wp-image-174" srcset="./../../../wp-content/uploads/2021/09/IMG_6260-1024x768.jpg 1024w, ./../../../wp-content/uploads/2021/09/IMG_6260-300x225.jpg 300w, ./../../../wp-content/uploads/2021/09/IMG_6260-768x576.jpg 768w, ./../../../wp-content/uploads/2021/09/IMG_6260.jpg 1280w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Sukanta Pal, Suchetana, Archita, Sanhedeep, Puspal and Anwesha at Palla road Burdwan(From Left to Right).Photograph: Sukanta Pal | sukantapal.com</figcaption></figure>
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="678" height="1024" src="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/DSC_1049-678x1024.jpg" alt="Sukanta Pal Posing for Kashful DP" class="wp-image-173" srcset="https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/DSC_1049-678x1024.jpg 678w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/DSC_1049-199x300.jpg 199w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/DSC_1049-768x1160.jpg 768w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/DSC_1049-1017x1536.jpg 1017w, https://https://sukantapal.github.io/blog/wp-content/uploads/2021/09/DSC_1049.jpg 1277w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption>Sukanta Pal Posing for Kashful DP. Photograph: Puspal Chandra | sukantapal.com</figcaption></figure>
+<figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="678" height="1024" src="./../../../wp-content/uploads/2021/09/DSC_1049-678x1024.jpg" alt="Sukanta Pal Posing for Kashful DP" class="wp-image-173" srcset="./../../../wp-content/uploads/2021/09/DSC_1049-678x1024.jpg 678w, ./../../../wp-content/uploads/2021/09/DSC_1049-199x300.jpg 199w, ./../../../wp-content/uploads/2021/09/DSC_1049-768x1160.jpg 768w, ./../../../wp-content/uploads/2021/09/DSC_1049-1017x1536.jpg 1017w, ./../../../wp-content/uploads/2021/09/DSC_1049.jpg 1277w" sizes="(max-width: 678px) 100vw, 678px" /><figcaption>Sukanta Pal Posing for Kashful DP. Photograph: Puspal Chandra | sukantapal.com</figcaption></figure>
 
 
 
@@ -98,7 +98,7 @@
 <p class="has-text-align-justify">During the journey, lots of things happened and then started filming it, small things like inside train and basic shots. When we reached Palla Road we take Groupie for Facebook, for blog and documenting memories. Then the process started when can we see kashful we’re almost there. Looks like I can’t describe that process, I will add a Podcast episode in future here.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://https://sukantapal.github.io/blog/saroter-kashful-land-of-kash-grass/feed/</wfw:commentRss>
+					<wfw:commentRss>./../../../saroter-kashful-land-of-kash-grass/feed/index.html</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
